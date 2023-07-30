@@ -2,8 +2,8 @@
 <body>
   
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/amandaguan-ag/amandaguan-ag/blob/main/resources/img/waving.gif">, I'm Amanda</h1>
-<h4 align="center">An accountant turned devloper, see my <a href="https://github.com/amandaguan-ag/amandaguan-ag/blob/main/assets/CV_AmandaGuan.pdf" target="_blank">resume</a> for more</h4>
+<h1 align="center">Hi 👋, I'm Amanda</h1>
+<h4 align="center">An accountant turned devloper, see my <a href="https://github.com/amandaguan-ag/amandaguan-ag/blob/assets/CV_AmandaGuan.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
 <!--Intro start-->
