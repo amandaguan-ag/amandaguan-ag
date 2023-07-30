@@ -3,7 +3,7 @@
   
 <div align="center">
 <h1 align="center">Hi 👋, I'm Amanda</h1>
-<h4 align="center">An accountant turned devloper, see my <a href="https://github.com/amandaguan-ag/amandaguan-ag/blob/assets/doc/CV_AmandaGuan.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">An accountant turned devloper, see my <a href="https://github.com/amandaguan-ag/amandaguan-ag/assets/CV_AmandaGuan (4).pdf" target="_blank">resume</a> for more</h4>
 </div>
 
 <!--Intro start-->
