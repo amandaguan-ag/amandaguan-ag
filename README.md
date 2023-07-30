@@ -1,11 +1,9 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Amanda</h1></summary>
-  </ul>
+<html>
+<body>
+  
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/amandaguan-ag/amandaguan-ag/blob/main/resources/img/waving.gif">, I'm Amanda</h1>
+<h4 align="center">An accountant turned devloper, see my <a href="https://github.com/amandaguan-ag/amandaguan-ag/blob/main/assets/CV_AmandaGuan.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
 <!--Intro start-->
